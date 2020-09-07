@@ -1,2 +1,1 @@
-# olympiad-tasks
- 
+# code-olymp
