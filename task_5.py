@@ -1,4 +1,5 @@
-
+# Rectangle with sides A and B given. Some smaller rectangles will be erased.
+# Find the new dimensions of the possible rectangle.
 
 a = int(input("A = "))
 b = int(input("B = "))
